@@ -5,7 +5,7 @@
   "main": "src/ts/index.ts",
   "scripts": {
     "build": "tsc",
-    "start": "live-server --open=src"
+    "start": "live-server ."
   },
   "author": "",
   "license": "ISC",
